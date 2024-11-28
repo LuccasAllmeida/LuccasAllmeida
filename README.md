@@ -29,5 +29,7 @@
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=luccasallmeida&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccasallmeida&layout=compact&langs_count=16&theme=dracula"/>
 
-    ![Blog](https://starchart.cc/{https://github.com/luccasalmeida}/{repo}.svg)
+    ![Blog](https://starchart.cc/{luccasalmeida}/{repo}.svg)
+	https://github-readme-stats.vercel.app/api/top-langs/?username={https://github.com/luccasalmeida}&theme=blue-green
+
 </div>
