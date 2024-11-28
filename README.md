@@ -1,4 +1,4 @@
-### Fala meu nobre! Eu sou o Lucas Almeida, Desenvolvedor Front End, e nas horas vagas, estudante de Engenharia de Software
+### Visão queridos! Eu sou o Lucas Almeida, aspirante a desenvolvedor JAVA (não julgue), e nas horas vagas, estudante de Engenharia de Software!
 
 <div style="display: inline_block"><br>
 
