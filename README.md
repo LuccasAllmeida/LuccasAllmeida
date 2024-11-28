@@ -1,5 +1,8 @@
 ### Visão queridos! Eu sou o Lucas Almeida, aspirante a desenvolvedor JAVA (não julgue), e nas horas vagas, estudante de Engenharia de Software!
 
+
+[![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucaskroos8@gmail.com)
+
 <div style="display: inline_block"><br>
 
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
