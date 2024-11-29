@@ -26,8 +26,6 @@
 
 <div>
   <a href="https://github.com/luccasallmeida">
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?luccasallmeida=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luccasallmeida&size_weight=0.5&count_weight=0.5)
 
 </div>
