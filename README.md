@@ -28,5 +28,6 @@
   <a href="https://github.com/luccasallmeida">
 
 ![Luccas Almeida](https://github-readme-stats.vercel.app/api/top-langs/?username=luccasallmeida&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luccasallmeida&size_weight=0.5&count_weight=0.5)
 
 </div>
