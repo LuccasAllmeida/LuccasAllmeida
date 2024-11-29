@@ -28,6 +28,7 @@
   <a href="https://github.com/luccasallmeida">
     
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luccasallmeida&size_weight=0.5&count_weight=0.5)
-	https://starchart.cc/{luccasallmeida}/{repo}.svg
+
+![Blog](https://starchart.cc/{luccasallmeida}/{repo}.svg)
 
 </div>
