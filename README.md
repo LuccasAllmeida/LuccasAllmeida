@@ -25,8 +25,8 @@
 ##
 
 <div>
-  <a href="https://github.com/luccasalmeida">
+  <a href="https://github.com/luccasallmeida">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luccasalmeida&hide_progress=true)
+![Luccas Almeida](https://github-readme-stats.vercel.app/api/top-langs/?username=luccasallmeida&hide_progress=true)
 
 </div>
