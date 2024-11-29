@@ -29,6 +29,6 @@
     
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luccasallmeida&size_weight=0.5&count_weight=0.5)
 
-(https://starchart.cc/{luccasallmeida}/{repo}.svg)
+https://github-readme-stats.vercel.app/api?username={luccasallmeida}&theme=blue-green
 
 </div>
