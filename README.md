@@ -1,4 +1,4 @@
-### Visão queridos! Eu sou o Lucas Almeida, aspirante a desenvolvedor JAVA (não julgue), e nas horas vagas, estudante de Engenharia de Software!
+### Visão queridos! Eu sou o Lucas Almeida, aspirante a analista de dados, e nas horas vagas, estudante de Engenharia de Software!
 
 
 
