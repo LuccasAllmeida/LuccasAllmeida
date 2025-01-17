@@ -4,7 +4,7 @@
 
 <div style="display: inline_block"><br>
 
-![blog]https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+![blog](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white
 https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
 https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
