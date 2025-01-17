@@ -13,7 +13,6 @@
 ![blog](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![blog](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![blog](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![blog](https://img.shields.io/badge/PowerBI-1CE783?style=for-the-badge&logo=hulu&logoColor=white)
 </div>
 
 ##
