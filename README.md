@@ -7,7 +7,7 @@
 ![blog](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![blog](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![blog](https://img.shields.io/badge/PowerBI-1CE783?style=for-the-badge&logo=hulu&logoColor=white)
-![blog](https://img.shields.io/badge/SQLserver-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![blog](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![blog](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 </div>
 
